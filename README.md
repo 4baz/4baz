@@ -1,4 +1,16 @@
-### Hi there 👋
+### yo, im baz
+
+Im very mid at everything but im working on that.
+
+Discord:  4baz#3358
+
+Owner: soju_ & AuroraCheats
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4baz&show_icons=true&theme=radical)
+
+
 
 <!--
 **4baz/4baz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
