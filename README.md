@@ -6,7 +6,6 @@ Discord:  4baz#3358
 
 Owner: soju_ & AuroraCheats
 
-I leak pasted gta cheats here: https://github.com/sinfail
 
 Soju discord: https://discord.gg/2fwhZVbREv
 
