@@ -9,7 +9,6 @@ Owner: soju_ & AuroraCheats
 
 Soju discord: https://discord.gg/2fwhZVbREv
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4baz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
