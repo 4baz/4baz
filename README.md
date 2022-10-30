@@ -4,7 +4,7 @@ Im very mid at everything but im working on that.
 
 Discord:  4baz#3358
 
-Owner: https://www.alcoholic.host/
+Owner: https://alcoholic.host/
 
 
 Soju discord: https://discord.gg/2fwhZVbREv
