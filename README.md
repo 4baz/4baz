@@ -4,24 +4,11 @@ Im very mid at everything but im working on that.
 
 Discord:  4baz#3358
 
-Owner: https://alcoholic.host/
+Owner: [soju bio](https://soju.me/)| [soju.services](https://soju.services/) | [alcoholic.host](https://alcoholic.host/)
+
+Most shit i make is released under one of   [alcoholic's](https://alcoholic.host/) sub projects
 
 
-Soju discord: https://discord.gg/2fwhZVbREv
+soju.services discord: https://discord.gg/2fwhZVbREv
 
 
-
-<!--
-**4baz/4baz** is a - _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
