@@ -1,4 +1,4 @@
-### yo, im baz or bailey whichever u prefer
+### yo,
 
 Im very mid at everything but im working on that.
 
