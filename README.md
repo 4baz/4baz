@@ -7,7 +7,7 @@ Discord:  4baz#3358
 Most shit i make is released under one of   [soju's](https://soju.me/) sub projects:
 
 
-[alcho bio](https://alcoholic.host/) | [soju.services](https://soju.services/) | [aurora cheats](https://soju.services/)
+ | [soju.services](https://soju.services/) | [aurora cheats](https://soju.services/)
 
 
 
