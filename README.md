@@ -6,7 +6,7 @@ Mainly use C,C++,python
 
 
 
-  [soju.services](https://soju.services/) 
+  [soju](https://soju.me/) 
 
 
 
