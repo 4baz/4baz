@@ -2,15 +2,13 @@
 
 Im very mid at everything but im working on that.
 
-Discord:  4baz#3358
-
-Most shit i make is released under one of   [soju's](https://soju.me/) sub projects:
-
-
- | [soju.services](https://soju.services/) | [aurora cheats](https://soju.services/)
+Mainly use C,C++,python
 
 
 
-soju.services discord: https://discord.gg/2fwhZVbREv
+  [soju.services](https://soju.services/) | [aurora cheats](https://soju.services/)
 
 
+
+
+Discord: @4baz#3358
