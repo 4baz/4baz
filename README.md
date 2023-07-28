@@ -5,7 +5,7 @@ Im very mid at everything but im working on that.
 
 
 
-  [soju](https://soju.pw/) 
+  [bazsec](https://bazsec.au/) 
 
   [WebOasis Fork](https://cybercrime.pw/)
 
