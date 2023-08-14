@@ -5,7 +5,7 @@ Im very mid at everything but im working on that.
 
 
 
-  [bazsec](https://bazsec.au/) 
+  [sfsec](https://sfsec.one/) 
 
   [WebOasis Fork](https://cybercrime.pw/)
 
