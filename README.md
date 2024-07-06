@@ -12,4 +12,4 @@ Im very mid at everything but im working on that.
 
 Discord: @4baz#3358
 
-https://discord.gg/keffzH8TXC
+
