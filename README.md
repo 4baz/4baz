@@ -5,9 +5,9 @@ Im very mid at everything but im working on that.
 
 
 
-  [I make things sometimes ](https://bailey.cc/) 
+  [I make things sometimes ](https://cunt.beer/) 
 
-  [WebOasis Fork](https://cybercrime.pw/)
+
 
 
 Discord: @4baz#3358
