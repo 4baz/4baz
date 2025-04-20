@@ -1,6 +1,5 @@
 ### yo,
 
-Im very mid at everything but im working on that.
 
 
 
